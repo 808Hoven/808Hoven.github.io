@@ -1,0 +1,344 @@
+.version.services /* version checker */
+{
+	color: #000018;
+	background-color: #D71809;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1020px;
+	min-height: 981px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 4px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#ppu6683
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	margin-left: -100px;
+}
+
+#pu6683
+{
+	width: 0.01px;
+}
+
+#u6683
+{
+	z-index: 64;
+	width: 1220px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 112px;
+	background: transparent url("../images/beatsuitecom_03.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6694
+{
+	z-index: 65;
+	width: 723px;
+	margin-bottom: -54px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -6px;
+	left: 244px;
+	background: transparent url("../images/newer%20logo-u6694-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6253
+{
+	z-index: 97;
+	width: 210px;
+	min-height: 98px;
+	margin-bottom: -10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 429px;
+	left: 261px;
+}
+
+#menuu5635
+{
+	z-index: 66;
+	width: 703px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 27px;
+	left: 262px;
+}
+
+#u5664
+{
+	width: 145px;
+	min-height: 72px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5665
+{
+	width: 145px;
+	padding-bottom: 59px;
+	position: relative;
+}
+
+#u5665.MuseMenuActive
+{
+	width: 145px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5668
+{
+	height: 13px;
+	width: 82px;
+	position: relative;
+	margin-right: -10000px;
+	top: 29px;
+	left: 31px;
+}
+
+#u5643
+{
+	width: 139px;
+	min-height: 72px;
+	position: relative;
+	margin-right: -10000px;
+	left: 147px;
+}
+
+#u5646
+{
+	width: 139px;
+	padding-bottom: 59px;
+	position: relative;
+}
+
+#u5646.MuseMenuActive
+{
+	width: 139px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5648
+{
+	height: 13px;
+	width: 77px;
+	position: relative;
+	margin-right: -10000px;
+	top: 29px;
+	left: 31px;
+}
+
+#u5650
+{
+	width: 123px;
+	min-height: 72px;
+	position: relative;
+	margin-right: -10000px;
+	left: 288px;
+}
+
+#u5651
+{
+	width: 123px;
+	padding-bottom: 59px;
+	position: relative;
+}
+
+#u5651:hover
+{
+	width: 123px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5651.MuseMenuActive
+{
+	width: 123px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5652
+{
+	height: 13px;
+	width: 61px;
+	position: relative;
+	margin-right: -10000px;
+	top: 29px;
+	left: 31px;
+}
+
+#u5636
+{
+	width: 155px;
+	min-height: 72px;
+	position: relative;
+	margin-right: -10000px;
+	left: 413px;
+}
+
+#u5639
+{
+	width: 155px;
+	padding-bottom: 59px;
+	position: relative;
+}
+
+#u5639.MuseMenuActive
+{
+	width: 155px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5642
+{
+	height: 13px;
+	width: 93px;
+	position: relative;
+	margin-right: -10000px;
+	top: 29px;
+	left: 31px;
+}
+
+#u5657
+{
+	width: 133px;
+	min-height: 72px;
+	position: relative;
+	margin-right: -10000px;
+	left: 570px;
+}
+
+#u5660
+{
+	width: 133px;
+	padding-bottom: 59px;
+	position: relative;
+}
+
+#u5660:hover
+{
+	width: 133px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5660.MuseMenuActive
+{
+	width: 133px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5661
+{
+	height: 13px;
+	width: 71px;
+	position: relative;
+	margin-right: -10000px;
+	top: 29px;
+	left: 31px;
+}
+
+#u6424
+{
+	z-index: 98;
+	width: 180px;
+	height: 144px;
+	position: relative;
+	margin-right: -10000px;
+	left: 100px;
+}
+
+#u3104-4
+{
+	z-index: 5;
+	display: block;
+	vertical-align: top;
+	margin-left: 119px;
+	position: relative;
+}
+
+#u3107-55
+{
+	z-index: 9;
+	display: block;
+	vertical-align: top;
+	margin-left: 101px;
+	position: relative;
+}
+
+#u6056
+{
+	z-index: 2;
+	width: 60px;
+	height: 58px;
+	position: relative;
+	margin-right: -10000px;
+	left: 244px;
+}
+
+#u6065
+{
+	z-index: 3;
+	width: 60px;
+	height: 58px;
+	position: relative;
+	margin-right: -10000px;
+	left: 480px;
+}
+
+#u6071
+{
+	z-index: 4;
+	width: 60px;
+	height: 58px;
+	position: relative;
+	margin-right: -10000px;
+	left: 716px;
+}
+
+#u6056:hover,#u6065:hover,#u6071:hover
+{
+	width: 60px;
+	height: 58px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+.html
+{
+	background-color: #000000;
+}
+
+body
+{
+	position: relative;
+	min-width: 1020px;
+}
+
+.verticalspacer
+{
+	min-height: 1px;
+}
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://808hoven.cf/assets/mobile-menu.mulib</loc>
+    <lastmod>2015-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://808hoven.cf/images/website%20logo.png</loc>
+    <lastmod>2016-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://808hoven.cf/images/studio.jpg</loc>
+    <lastmod>2016-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://808hoven.cf/images/183964.jpg</loc>
+    <lastmod>2016-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://808hoven.cf/images/vde_miami_recording_studio.jpg</loc>
+    <lastmod>2016-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://808hoven.cf/images/check%20icon.png</loc>
+    <lastmod>2016-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://808hoven.cf/images/button.png</loc>
+    <lastmod>2016-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://808hoven.cf/index.html</loc>
+    <lastmod>2016-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://808hoven.cf/phone/index.html"/>
+  </url>
+  <url>
+    <loc>http://808hoven.cf/services.html</loc>
+    <lastmod>2016-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://808hoven.cf/phone/services.html"/>
+  </url>
+  <url>
+    <loc>http://808hoven.cf/pricing.html</loc>
+    <lastmod>2016-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://808hoven.cf/phone/pricing.html"/>
+  </url>
+  <url>
+    <loc>http://808hoven.cf/beat-store.html</loc>
+    <lastmod>2016-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://808hoven.cf/phone/beat-store.html"/>
+  </url>
+  <url>
+    <loc>http://808hoven.cf/contact.html</loc>
+    <lastmod>2016-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://808hoven.cf/phone/contact.html"/>
+  </url>
+</urlset>
