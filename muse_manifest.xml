@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="808hoven.cf" resolutions="1x" timestamp="1478919783643">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="808hoven.cf" resolutions="1x" timestamp="1478977475817">
   <folder name="css">
     <file name="site_global.css" crc="4099188253"/>
-    <file name="master_a-master.css" crc="4274770116" ref="pricing:services:beat-store:contact:index"/>
+    <file name="master_a-master.css" crc="3944597128" ref="pricing:services:beat-store:contact:index"/>
     <file name="pricing.css" crc="4293839388" ref="pricing"/>
     <file name="services.css" crc="416749577" ref="services"/>
-    <file name="beat-store.css" crc="408791088" ref="beat-store"/>
+    <file name="beat-store.css" crc="522808200" ref="beat-store"/>
     <file name="contact.css" crc="478204694" ref="contact"/>
     <file name="index.css" crc="4028816413" ref="index"/>
   </folder>
@@ -35,7 +35,7 @@
   </folder>
   <folder name="images">
     <file name="menu-alt-256-u6037.png" crc="3782778061" ref="phone>index:phone>services:phone>pricing:phone>beat-store:phone>contact"/>
-    <file name="newer logo.png" crc="3761164811" ref="phone>index:index"/>
+    <file name="newer logo.png" crc="3761164811" ref="phone>index:index:beat-store"/>
     <file name="new logo kinda.jpg" crc="4049166845" ref="phone>index:index"/>
     <file name="u4219-4.png" crc="4189418119" ref="phone>index"/>
     <file name="music-studio-background-music-studio-background-wallpaper-classic-with-photo-of-music-studio-photography-in-wallpaper-gallery-u4233-fr.jpg" crc="396700432" ref="phone>index:index"/>
@@ -45,14 +45,14 @@
     <file name="shopping cart-u6044-r.png" crc="179766623" ref="phone>index:phone>services:phone>pricing:phone>beat-store:phone>contact"/>
     <file name="shopping cart-u6044-a.png" crc="3889106036" ref="phone>index:phone>services:phone>pricing:phone>beat-store:phone>contact"/>
     <file name="website logo.png" crc="4118523298" seo="true" ref="phone>index:phone>services:phone>pricing:phone>beat-store:phone>contact"/>
-    <file name="twitter.png" crc="4102706121" ref="phone>index:index"/>
-    <file name="youtube.png" crc="442611654" ref="phone>index:index"/>
-    <file name="soundcloud-logo-psd47614.png" crc="155284395" ref="phone>index:index"/>
+    <file name="twitter.png" crc="4102706121" ref="phone>index:index:beat-store"/>
+    <file name="youtube.png" crc="442611654" ref="phone>index:index:beat-store"/>
+    <file name="soundcloud-logo-psd47614.png" crc="155284395" ref="phone>index:index:beat-store"/>
     <file name="music-studio-background-music-studio-background-wallpaper-classic-with-photo-of-music-studio-photography-in-wallpaper-gallery-crop-u4285.jpg" crc="508097739" ref="phone>services"/>
     <file name="blank.gif" crc="4208392903" ref="phone>services:index:services:pricing:beat-store:contact"/>
     <file name="studio.jpg" crc="452864712" seo="true" ref="phone>services"/>
     <file name="183964.jpg" crc="4259120091" seo="true" ref="phone>services"/>
-    <file name="vde_miami_recording_studio.jpg" crc="263781094" seo="true" ref="phone>services"/>
+    <file name="vde_miami_recording_studio.jpg" crc="4129885945" ref="phone>services:beat-store"/>
     <file name="loading.gif" crc="3815509949" ref="phone>services"/>
     <file name="u6427-55.png" crc="215534817" ref="phone>services"/>
     <file name="u6430-4.png" crc="3809025434" ref="phone>services"/>
@@ -109,16 +109,6 @@
     <file name="u6665-r.png" crc="469836516" ref="pricing"/>
     <file name="u6677.png" crc="416675813" ref="pricing"/>
     <file name="u6677-r.png" crc="388857457" ref="pricing"/>
-    <file name="vde_miami_recording_studio2.jpg" crc="4129885945" ref="beat-store"/>
-    <file name="u6503-4.png" crc="260763836" ref="beat-store"/>
-    <file name="u6517-10.png" crc="178460807" ref="beat-store"/>
-    <file name="u6523-4.png" crc="4135822627" ref="beat-store"/>
-    <file name="u6532-10.png" crc="519184130" ref="beat-store"/>
-    <file name="u6538-4.png" crc="34632142" ref="beat-store"/>
-    <file name="u6544-10.png" crc="193677672" ref="beat-store"/>
-    <file name="u6547-4.png" crc="277433384" ref="beat-store"/>
-    <file name="u6559-12.png" crc="4085565915" ref="beat-store"/>
-    <file name="u6568-4.png" crc="4088202098" ref="beat-store"/>
     <file name="name.jpg" crc="68464640" ref="contact"/>
     <file name="nail.jpg" crc="4181910775" ref="contact"/>
     <file name="u2070-fse.png" crc="3940279687" ref="contact"/>
@@ -148,6 +138,6 @@
   <file name="index.html" crc="212592478" seo="true" mt="1467471895923" redirect="true"/>
   <file name="services.html" crc="374056533" seo="true" mt="1470852501308" redirect="true"/>
   <file name="pricing.html" crc="3784549189" seo="true" mt="1467471895923" redirect="true"/>
-  <file name="beat-store.html" crc="4180125547" seo="true" mt="1469631395075" redirect="true"/>
+  <file name="beat-store.html" crc="3941532581" seo="true" mt="1478977457778" redirect="true"/>
   <file name="contact.html" crc="28139819" seo="true" mt="1478919782876" redirect="true"/>
 </manifest>
